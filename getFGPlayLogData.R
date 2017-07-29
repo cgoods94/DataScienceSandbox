@@ -1,6 +1,6 @@
 ####################################################################################
-## This function returns a data.table of every plate appearance in every game played
-## by the specified team in the specified date range. Data is retrieved
+## This function returns a data.table of every plate appearance in every home game played
+## by the specified MLB team in the specified date range. Data is retrieved
 ## from http://fangraphs.com/plays.aspx for every day on which a game was played by the
 ## specified team. 
 ##
@@ -70,7 +70,14 @@ getFGPlayLogData <- function(startDate, endDate, team = "Cubs") {
     }
     
     ## convert play.log's columns to the appropriate data types
-    play.log[,c(3:4, 8:9, 11:14)] <- lapply(play.log[,c(3:4, 8:9, 11:14)], function(x) abs(as.numeric(as.character(x))))
+    if(ncol(play.log))
+    {
+        play.log[,c(3:4, 8:9, 11:14)] <- lapply(play.log[,c(3:4, 8:9, 11:14)], function(x) abs(as.numeric(as.character(x))))
+    }
+    else
+    {
+        play.log <- NULL
+    }
     
     play.log
 }
