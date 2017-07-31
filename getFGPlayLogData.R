@@ -7,15 +7,17 @@
 ##
 ## Parameters:
 ## ------------------------------------------
-## startDate: the beginning of the date range
-## endDate: the end of the date range
-## team: the team to pull play data for
+## startDate: the beginning of the date range; REQUIRED
+## endDate: the end of the date range. If not specified, the function will only return
+## plays from the startDate specified, if there was a home game for the team on that day.
+## team: the team to pull play data for. If not specified, it will look for plays from
+## home games from the greatest team on Earth.
 ##
 ## Note: the code has not been optimized and could run slow on your machine.
 ## Dependencies: XML, data.table
 ####################################################################################
 
-getFGPlayLogData <- function(startDate, endDate, team = "Cubs") {
+getFGPlayLogData <- function(startDate, endDate = NULL, team = "Cubs") {
     
     ## Check that start and end dates are valid
     startDate <- try(as.Date(startDate, format = "%Y-%m-%d"))
@@ -24,20 +26,26 @@ getFGPlayLogData <- function(startDate, endDate, team = "Cubs") {
         stop("Invalid start date. Please enter dates in format {YYYY}-{MM}-{DD}.")
     }
     
-    endDate <- try(as.Date(endDate, format = "%Y-%m-%d"))
-    if( class(endDate) == "try-error" || is.na(endDate) )
+    if (!(is.null(endDate)))
     {
-        stop("Invalid end date. Please enter dates in format {YYYY}-{MM}-{DD}.")
-    }
+        endDate <- try(as.Date(endDate, format = "%Y-%m-%d"))
+        if( class(endDate) == "try-error" || is.na(endDate) )
+        {
+            stop("Invalid end date. Please enter dates in format {YYYY}-{MM}-{DD}.")
+        }
+        
+        if (endDate < startDate)
+        {
+            stop("Error: Invalid date range.")
+        }
     
-    if (endDate < startDate)
+        ## set date range and establish play.log data table
+        dateRange <- as.character(seq(startDate, endDate, by="days"))
+    }
+    else
     {
-        stop("Error: Invalid date range.")
+        dateRange <- as.character(startDate)
     }
-    
-    ## set date range and establish play.log data table
-    dateRange <- as.character(seq(startDate, endDate, by="days"))
-    
     play.log <- data.table()
     
     ## for each date in the range...
@@ -71,7 +79,7 @@ getFGPlayLogData <- function(startDate, endDate, team = "Cubs") {
         play.log <- rbind(play.log, game.play.log)
     }
     
-    ## convert play.log's columns to the appropriate data types
+    ## convert play.log's columns to the appropriate data types and add Team or Visitor
     if(ncol(play.log))
     {
         play.log[,c(3:4, 8:9, 11:14)] <- lapply(play.log[,c(3:4, 8:9, 11:14)], function(x) abs(as.numeric(as.character(x))))
