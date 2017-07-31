@@ -2,7 +2,8 @@
 ## This function returns a data.table of every plate appearance in every home game played
 ## by the specified MLB team in the specified date range. Data is retrieved
 ## from http://fangraphs.com/plays.aspx for every day on which a game was played by the
-## specified team. 
+## specified team. Please follow Fangraphs' ToS if you use this data for anything published.
+## ToS found here: http://www.fangraphs.com/tos.aspx
 ##
 ## Parameters:
 ## ------------------------------------------
@@ -11,6 +12,7 @@
 ## team: the team to pull play data for
 ##
 ## Note: the code has not been optimized and could run slow on your machine.
+## Dependencies: XML, data.table
 ####################################################################################
 
 getFGPlayLogData <- function(startDate, endDate, team = "Cubs") {
