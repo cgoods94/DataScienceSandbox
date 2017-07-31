@@ -8,11 +8,13 @@
 ## Parameters:
 ## ------------------------------------------
 ## startDate: the beginning of the date range; REQUIRED
+##
 ## endDate: the end of the date range. If not specified, the function will only return
 ## plays from the startDate specified, if there was a home game for the team on that day.
+##
 ## team: the team to pull play data for. If not specified, it will look for plays from
 ## home games from the greatest team on Earth.
-##
+## ------------------------------------------
 ## Note: the code has not been optimized and could run slow on your machine.
 ## Dependencies: XML, data.table
 ####################################################################################
