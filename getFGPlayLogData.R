@@ -54,13 +54,13 @@ getFGPlayLogData <- function(startDate, endDate = NULL, team = "Cubs") {
     for (date in dateRange)
     {
         ## send the proper Web request to get that day's game
-        theurl <- url(paste("http://www.fangraphs.com/plays.aspx?date=", 
+        theurl <- paste("http://www.fangraphs.com/plays.aspx?date=", 
                         date,
                         "&team=",
                         team,
                         "&dh=0&season=",
                         format(as.Date(date, "%Y"), "%Y"),
-                        sep = ""))
+                        sep = "")
         doc <- htmlTreeParse(theurl, useInternalNodes = TRUE)
         
         ## if there was no game that day, you won't get column headers (among other things),
