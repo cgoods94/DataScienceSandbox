@@ -1,0 +1,1001 @@
+Lead ID,Sale Type,Lead Age,Urban,Married,Mobile,NumberHighBrands,NumberLowBrands,NumberFashionMag,HHIncome,Converted
+293484,In-Person,31,1,0,0,4,0,2,96,1
+2407738,Field Shipment Shipment,20,0,0,0,2,0,0,57,0
+2837314,Field Shipment Shipment,42,1,1,0,3,1,2,103,1
+3087466,In-Person,35,0,0,0,2,2,0,68,0
+3100446,Field Shipment Shipment,30,0,0,0,2,1,0,66,0
+3346184,In-Person,36,0,0,0,3,4,0,61,0
+4399581,Field Shipment Shipment,22,0,0,0,2,2,0,65,0
+4803268,Field Shipment Shipment,49,0,0,0,3,4,4,95,1
+4945161,Field Shipment Shipment,21,0,0,0,0,0,0,68,0
+6130331,In-Person,20,0,0,0,0,0,0,61,0
+6222504,In-Person,46,1,0,0,2,3,3,108,1
+6378853,In-Person,34,0,0,0,0,1,3,89,1
+7331858,Field Shipment Shipment,30,0,0,1,2,3,0,73,0
+7832478,In-Person,25,0,0,0,3,1,0,68,0
+8416307,In-Person,31,0,0,1,1,1,0,48,0
+8452698,Field Shipment Shipment,33,0,0,1,1,0,1,95,1
+9059834,Field Shipment Shipment,34,0,0,0,2,0,0,61,0
+9149416,In-Person,21,0,0,0,3,1,0,66,0
+10746194,Field Shipment Shipment,29,0,0,0,2,1,0,61,0
+11237623,Field Shipment Shipment,37,0,0,1,1,0,0,57,0
+13363914,Field Shipment Shipment,31,0,0,0,2,0,0,60,0
+13482352,Field Shipment Shipment,22,0,0,0,1,1,0,61,0
+15273791,In-Person,44,1,1,0,3,2,4,81,1
+15882928,In-Person,26,0,0,1,1,1,0,69,0
+17055192,In-Person,29,0,0,0,3,1,0,60,0
+17115240,Field Shipment Shipment,26,0,0,1,1,2,0,66,0
+17832365,In-Person,38,1,0,1,1,3,3,92,1
+19278025,In-Person,21,0,0,0,2,3,0,61,0
+19740726,Field Shipment Shipment,22,0,0,0,1,1,0,63,0
+20195312,In-Person,41,1,1,0,2,1,2,83,1
+20452464,Field Shipment Shipment,36,0,0,0,0,1,0,57,0
+25026711,Field Shipment Shipment,33,0,0,0,1,1,0,65,0
+25359672,In-Person,20,0,0,0,1,1,0,67,0
+28794617,Field Shipment Shipment,34,0,0,0,1,1,4,88,1
+28919355,In-Person,30,0,0,0,0,2,0,30,0
+29237146,In-Person,26,0,0,0,2,0,0,67,0
+30143172,Field Shipment Shipment,23,0,0,0,3,0,0,71,0
+30198487,In-Person,20,0,0,0,1,2,0,60,0
+31804701,In-Person,34,1,0,0,3,1,3,85,1
+32501447,Field Shipment Shipment,43,1,1,0,3,0,3,80,1
+32549041,Field Shipment Shipment,31,0,1,0,1,1,3,97,1
+32823358,Field Shipment Shipment,45,1,0,0,0,0,2,97,1
+33425378,In-Person,26,0,0,0,0,1,0,50,0
+36170230,In-Person,43,1,1,0,2,1,3,105,1
+37367718,In-Person,40,1,0,0,3,2,3,84,1
+37422432,Field Shipment Shipment,23,0,0,0,1,1,0,57,0
+37450028,In-Person,46,0,1,1,0,0,1,88,1
+38447439,In-Person,40,1,0,0,2,1,5,94,1
+38915101,In-Person,32,0,0,0,1,0,0,61,0
+38920132,Field Shipment Shipment,19,0,0,0,2,0,0,66,0
+39456181,In-Person,22,0,0,0,0,3,0,66,0
+39824369,Field Shipment Shipment,27,0,0,0,5,0,0,67,0
+43317026,Field Shipment Shipment,20,0,0,0,0,1,0,57,0
+44105478,In-Person,27,0,0,0,1,2,0,60,0
+46517948,In-Person,45,0,0,0,5,3,1,83,1
+48124111,In-Person,29,0,0,0,2,0,0,74,0
+48476293,In-Person,35,1,0,0,0,1,4,87,1
+49032669,Field Shipment Shipment,33,0,0,1,0,2,5,103,1
+49497347,In-Person,30,0,0,0,3,1,0,58,0
+50296723,Field Shipment Shipment,47,1,0,0,1,1,3,77,1
+50550026,Field Shipment Shipment,23,0,0,0,0,0,0,65,0
+51839512,In-Person,25,0,0,0,1,0,0,52,0
+51898132,In-Person,38,0,0,1,0,0,0,53,0
+52748221,Field Shipment Shipment,28,0,0,0,1,2,0,66,0
+53878438,In-Person,29,0,0,1,0,0,0,71,0
+54448732,Field Shipment Shipment,33,0,0,0,0,0,0,57,0
+54790109,In-Person,30,0,0,1,0,1,0,59,0
+55038241,In-Person,38,1,0,0,2,0,0,106,1
+56691726,In-Person,38,0,0,0,2,1,4,45,0
+56880607,In-Person,31,0,0,1,1,2,0,64,0
+56986226,In-Person,23,0,0,0,0,0,0,68,0
+57751521,In-Person,46,0,1,0,2,0,3,95,1
+59036899,Field Shipment Shipment,50,0,0,1,2,1,0,45,0
+59571784,In-Person,48,0,0,0,0,3,4,97,1
+59613928,Field Shipment Shipment,37,1,1,0,1,2,1,91,1
+59785523,Field Shipment Shipment,29,0,0,0,2,1,0,53,0
+60194073,Field Shipment Shipment,35,0,0,0,0,0,0,60,0
+61123816,In-Person,35,0,0,0,3,1,0,66,0
+61586652,Field Shipment Shipment,36,0,0,0,0,1,0,68,0
+62316599,Field Shipment Shipment,26,0,0,1,2,4,0,59,0
+63701269,In-Person,36,0,0,0,1,3,0,59,0
+65508082,Field Shipment Shipment,44,0,0,0,3,1,4,45,0
+67271896,Field Shipment Shipment,40,1,0,0,1,2,4,45,0
+68048583,Field Shipment Shipment,34,0,0,0,2,1,0,25,0
+70020268,Field Shipment Shipment,37,0,0,0,2,1,0,62,0
+70690442,Field Shipment Shipment,25,0,0,1,2,4,0,65,0
+71122877,In-Person,33,0,0,0,0,1,0,59,0
+72121986,Field Shipment Shipment,37,0,0,0,1,0,3,45,0
+72149575,Field Shipment Shipment,30,1,0,0,2,1,2,107,1
+72231699,In-Person,20,0,0,0,1,1,0,58,0
+72410694,In-Person,31,0,0,0,3,1,0,59,0
+73353211,In-Person,48,1,0,0,2,3,4,93,1
+75815824,In-Person,28,0,0,0,0,1,0,63,0
+76269233,In-Person,46,1,0,0,2,1,4,105,1
+76299289,In-Person,42,1,1,1,1,3,4,103,1
+77559467,In-Person,23,0,0,1,5,1,0,64,0
+84540435,Field Shipment Shipment,31,0,0,0,0,0,0,62,0
+85454844,In-Person,36,1,0,1,2,1,0,45,0
+85850755,Field Shipment Shipment,29,0,0,0,5,0,0,67,0
+86234320,Field Shipment Shipment,31,0,0,0,1,1,0,69,0
+87264016,In-Person,46,1,1,0,3,3,5,117,1
+88361319,In-Person,38,0,0,1,2,1,0,61,0
+89810471,In-Person,44,0,0,0,1,0,1,45,0
+90262908,Field Shipment Shipment,47,1,1,0,3,0,3,102,1
+91640774,In-Person,21,0,0,0,1,0,0,56,0
+94194897,In-Person,46,1,0,0,2,3,2,96,1
+95371420,In-Person,30,0,0,0,3,0,0,69,0
+95879574,In-Person,38,0,0,0,1,2,0,56,0
+96133892,Field Shipment Shipment,30,0,0,0,1,3,0,62,0
+97138200,In-Person,36,1,1,0,3,2,4,97,1
+97445727,Field Shipment Shipment,33,0,0,0,3,1,0,57,0
+98010420,Field Shipment Shipment,30,0,0,0,2,1,0,75,0
+98306522,In-Person,28,0,0,0,1,2,0,65,0
+98387532,In-Person,38,0,1,0,3,3,2,96,1
+100871227,In-Person,19,0,0,0,0,0,0,68,0
+101588960,Field Shipment Shipment,38,1,1,0,5,1,1,105,1
+102530708,Field Shipment Shipment,31,0,1,0,0,0,4,99,1
+102765530,Field Shipment Shipment,22,0,0,1,0,4,0,56,0
+103076094,In-Person,38,1,1,0,4,0,3,109,1
+105020609,Field Shipment Shipment,31,0,0,0,1,1,0,52,0
+106339764,Field Shipment Shipment,23,0,0,0,3,1,0,68,0
+107713838,In-Person,39,1,1,0,0,0,2,107,1
+108025313,In-Person,28,0,0,0,3,1,0,59,0
+108288122,Field Shipment Shipment,25,0,0,0,3,3,0,56,0
+109871497,In-Person,36,0,0,0,1,2,0,66,0
+110473595,Field Shipment Shipment,25,0,0,0,1,3,0,55,0
+111482576,In-Person,24,0,0,1,0,0,0,52,0
+111550486,Field Shipment Shipment,48,0,0,0,1,0,5,100,1
+111966016,In-Person,19,0,0,0,2,2,0,73,0
+112722128,In-Person,21,0,0,0,0,1,0,72,0
+112998690,Field Shipment Shipment,47,1,1,0,4,2,3,93,1
+113489875,In-Person,24,0,0,1,0,0,0,55,0
+113688273,Field Shipment Shipment,26,0,0,1,1,1,0,68,0
+117512074,In-Person,25,0,0,0,0,0,0,69,0
+118175057,In-Person,23,0,0,0,2,0,0,60,0
+118313370,In-Person,22,0,0,0,3,2,0,55,0
+119890122,In-Person,22,0,0,0,0,1,0,63,0
+121215119,Field Shipment Shipment,31,0,0,0,2,1,0,73,0
+121291610,In-Person,38,0,0,1,4,1,5,45,0
+121722216,In-Person,36,0,0,0,0,2,0,60,0
+124447864,In-Person,42,0,0,0,3,2,0,45,0
+125392902,Field Shipment Shipment,47,1,0,0,0,0,4,101,1
+128943193,Field Shipment Shipment,25,0,0,0,0,0,0,70,0
+128945527,In-Person,34,0,0,0,4,1,0,62,0
+129437793,In-Person,48,1,0,0,3,1,5,45,0
+130735525,Field Shipment Shipment,36,1,1,0,2,0,1,106,1
+131616667,In-Person,27,0,0,0,2,3,0,59,0
+131963560,Field Shipment Shipment,26,0,0,0,1,1,0,60,0
+135456909,Field Shipment Shipment,26,0,0,0,5,2,0,61,0
+135555780,Field Shipment Shipment,46,1,1,0,4,0,4,104,1
+143236428,In-Person,31,0,0,0,2,2,0,63,0
+144780374,In-Person,33,1,0,0,3,2,5,96,1
+146408194,In-Person,24,0,0,0,1,1,0,65,0
+146966044,Field Shipment Shipment,29,0,0,0,1,0,0,74,0
+147588298,In-Person,36,0,0,0,3,1,0,59,0
+149088576,Field Shipment Shipment,31,0,0,0,3,1,0,30,0
+149887479,Field Shipment Shipment,21,0,0,1,1,0,0,60,0
+150022264,In-Person,49,1,0,0,3,1,2,117,1
+150114953,In-Person,37,1,0,0,0,2,0,93,1
+150616820,In-Person,29,0,0,0,3,0,0,71,0
+151314075,In-Person,24,0,0,0,1,2,0,73,0
+151746758,In-Person,36,0,0,0,2,1,3,107,1
+152071953,Field Shipment Shipment,43,0,0,0,1,3,0,45,0
+152885809,Field Shipment Shipment,19,0,0,0,0,3,0,50,0
+155198767,In-Person,33,0,0,1,0,0,0,68,0
+155264253,Field Shipment Shipment,37,0,0,0,3,0,0,72,0
+155988934,In-Person,37,0,0,0,1,1,0,67,0
+156677277,In-Person,40,1,0,0,2,0,4,111,1
+156984915,In-Person,22,0,0,0,1,0,0,59,0
+157094604,In-Person,23,0,0,1,3,2,0,59,0
+157106223,Field Shipment Shipment,32,0,0,0,4,0,0,59,0
+159569972,Field Shipment Shipment,37,1,0,0,3,1,3,113,1
+160076881,In-Person,49,0,0,1,3,0,4,45,0
+160431205,Field Shipment Shipment,39,0,1,0,3,1,1,104,1
+160856422,In-Person,32,0,0,0,3,1,0,61,0
+162645699,Field Shipment Shipment,32,0,0,0,2,1,3,97,1
+163030912,In-Person,34,0,0,0,4,2,0,72,0
+166349602,Field Shipment Shipment,36,1,0,0,3,1,1,113,1
+168397268,In-Person,35,1,0,0,3,1,1,105,1
+168410871,Field Shipment Shipment,40,0,0,0,1,0,2,107,1
+169719954,In-Person,30,0,0,1,3,2,0,62,0
+169909247,Field Shipment Shipment,34,0,0,0,2,2,0,57,0
+172770108,In-Person,28,0,0,0,1,0,0,55,0
+176425368,In-Person,46,1,0,0,2,0,4,107,1
+176666096,In-Person,33,0,0,0,2,2,0,60,0
+177636957,Field Shipment Shipment,39,0,1,1,2,2,4,105,1
+177743781,Field Shipment Shipment,39,0,0,0,3,1,3,98,1
+180631993,Field Shipment Shipment,27,0,0,0,2,0,0,54,0
+180659083,In-Person,21,0,0,0,0,2,0,58,0
+181563692,In-Person,31,1,0,0,2,2,2,103,1
+182466326,Field Shipment Shipment,26,0,0,0,2,0,0,68,0
+182900480,Field Shipment Shipment,31,0,1,0,1,2,0,102,1
+183428811,Field Shipment Shipment,36,1,0,0,0,1,3,102,1
+185059504,Field Shipment Shipment,36,0,0,1,5,0,0,55,0
+185942028,In-Person,36,0,0,0,0,1,0,55,0
+186595910,Field Shipment Shipment,35,0,1,0,4,4,0,118,1
+187597692,Field Shipment Shipment,42,1,0,0,3,3,2,100,1
+188631439,Field Shipment Shipment,23,0,0,0,3,1,0,69,0
+193003283,In-Person,28,0,0,0,0,0,0,55,0
+193316215,In-Person,39,0,1,0,4,1,4,90,1
+193964856,Field Shipment Shipment,36,1,0,0,1,1,1,45,0
+197318740,In-Person,31,0,0,0,4,0,0,64,0
+197872504,In-Person,38,0,0,0,0,1,2,45,0
+200218284,Field Shipment Shipment,19,0,0,0,1,1,0,72,0
+200656810,In-Person,40,0,1,0,0,0,3,108,1
+201017520,Field Shipment Shipment,26,0,0,0,0,1,0,61,0
+201176895,In-Person,19,0,0,0,1,0,0,66,0
+203356203,In-Person,26,0,0,0,2,0,0,58,0
+203927195,Field Shipment Shipment,37,0,0,0,1,1,0,53,0
+204439401,Field Shipment Shipment,37,1,0,0,2,0,4,45,0
+207069833,Field Shipment Shipment,45,1,0,0,4,1,1,99,1
+208228504,Field Shipment Shipment,35,0,0,0,0,0,0,71,0
+208301463,In-Person,20,0,0,0,3,1,0,56,0
+208699961,In-Person,38,0,0,0,1,2,0,67,0
+208705095,Field Shipment Shipment,34,0,0,0,0,1,0,66,0
+208995256,In-Person,31,0,0,0,1,0,0,52,0
+209554208,In-Person,20,0,0,0,4,1,0,40,0
+209630749,Field Shipment Shipment,40,0,0,0,1,2,2,45,0
+210477117,Field Shipment Shipment,27,0,0,0,1,1,0,65,0
+210755371,In-Person,33,0,0,0,0,1,0,53,0
+211328354,Field Shipment Shipment,28,0,0,0,1,0,0,53,0
+211500041,In-Person,27,0,0,0,3,2,0,61,0
+211866783,In-Person,29,0,0,1,0,1,0,60,0
+215167189,Field Shipment Shipment,20,0,0,0,2,0,0,75,0
+217338254,In-Person,34,0,0,1,1,1,0,59,0
+218093594,In-Person,42,1,0,0,2,1,1,45,0
+218344584,In-Person,34,0,0,0,1,0,5,101,1
+219496358,In-Person,39,0,0,0,2,0,2,45,0
+220202683,Field Shipment Shipment,32,0,0,1,0,3,0,63,0
+223815892,Field Shipment Shipment,43,1,1,0,1,1,4,108,1
+224453522,Field Shipment Shipment,36,0,0,0,2,1,1,45,0
+227039205,In-Person,47,0,0,0,3,2,0,110,1
+228013653,In-Person,20,0,0,0,4,2,0,63,0
+228014029,In-Person,32,1,1,0,2,0,1,102,1
+228271922,Field Shipment Shipment,35,1,1,0,0,1,3,104,1
+230407272,Field Shipment Shipment,39,1,1,0,1,0,1,99,1
+230609988,Field Shipment Shipment,37,0,0,0,0,1,0,63,0
+231168876,Field Shipment Shipment,38,1,1,0,2,0,3,106,1
+231823581,Field Shipment Shipment,24,0,0,1,2,2,0,67,0
+232972485,In-Person,37,1,0,0,0,1,1,110,1
+233510528,Field Shipment Shipment,40,1,0,0,1,0,4,97,1
+233920592,In-Person,26,0,0,0,2,1,0,55,0
+234115191,Field Shipment Shipment,31,0,0,0,4,0,0,70,0
+235537252,Field Shipment Shipment,20,0,0,0,5,2,0,65,0
+236810808,In-Person,39,0,1,0,1,0,0,97,1
+237463839,In-Person,36,1,1,1,0,1,1,98,1
+239567755,Field Shipment Shipment,41,1,0,0,1,2,0,101,1
+239829827,In-Person,46,0,0,1,2,2,1,88,1
+240892386,Field Shipment Shipment,25,0,0,0,1,1,0,71,0
+242137640,Field Shipment Shipment,42,0,0,0,1,3,4,101,1
+242531443,In-Person,46,0,0,1,3,3,5,111,1
+242538566,In-Person,25,0,0,0,2,1,0,59,0
+242713868,In-Person,32,0,0,0,0,1,0,52,0
+243294010,Field Shipment Shipment,33,0,0,0,0,0,0,72,0
+243343122,Field Shipment Shipment,31,1,0,1,1,3,4,99,1
+244215875,In-Person,40,0,1,0,1,1,0,105,1
+245182476,Field Shipment Shipment,36,0,1,0,0,1,3,108,1
+245409934,In-Person,19,0,0,1,1,4,0,60,0
+245708720,Field Shipment Shipment,33,0,0,0,1,0,0,61,0
+247181844,In-Person,31,0,0,0,1,2,4,108,1
+247543998,Field Shipment Shipment,36,0,0,0,0,1,3,96,1
+247766554,In-Person,37,0,0,0,2,1,0,62,0
+247795366,Field Shipment Shipment,47,1,1,0,0,1,4,100,1
+247818546,Field Shipment Shipment,31,0,0,1,1,2,0,50,0
+248191302,Field Shipment Shipment,47,1,0,0,2,1,4,94,1
+250570187,In-Person,37,0,0,1,3,2,0,56,0
+252389607,In-Person,44,1,1,0,2,0,5,95,1
+252724279,In-Person,40,1,1,0,3,2,2,93,1
+252980957,In-Person,23,0,0,1,0,2,0,63,0
+255428353,Field Shipment Shipment,39,0,0,0,0,1,1,93,1
+257165833,In-Person,28,0,0,0,0,0,0,70,0
+258431465,Field Shipment Shipment,33,1,0,1,1,4,4,45,0
+258539195,In-Person,35,1,0,1,0,2,2,45,0
+259194092,In-Person,34,0,0,0,0,1,0,70,0
+260451027,Field Shipment Shipment,37,0,0,0,0,0,0,61,0
+261262642,Field Shipment Shipment,19,0,0,0,2,2,0,49,0
+263105664,Field Shipment Shipment,34,0,0,0,1,2,0,69,0
+263325731,Field Shipment Shipment,24,0,0,1,1,1,0,77,0
+263628371,In-Person,23,0,0,1,5,2,0,64,0
+264922249,Field Shipment Shipment,33,1,0,0,2,1,3,108,1
+266517319,In-Person,48,1,0,0,0,0,1,97,1
+266520447,In-Person,22,0,0,0,1,0,0,66,0
+270583818,In-Person,33,0,0,0,2,1,1,101,1
+270868752,In-Person,24,0,0,0,0,1,0,55,0
+272467451,In-Person,18,0,0,0,0,0,0,68,0
+272611649,In-Person,36,0,0,1,3,1,0,65,0
+273404341,In-Person,29,0,0,1,0,0,0,54,0
+273862838,Field Shipment Shipment,24,0,0,0,4,0,0,60,0
+274188233,Field Shipment Shipment,30,0,0,0,3,0,0,60,0
+275738978,In-Person,45,1,0,0,1,0,1,105,1
+276572269,Field Shipment Shipment,23,0,0,1,0,1,0,71,0
+276708425,Field Shipment Shipment,26,0,0,0,0,0,0,57,0
+276748958,Field Shipment Shipment,28,0,0,0,2,3,0,56,0
+277026880,In-Person,31,0,0,1,1,2,0,66,0
+277615713,In-Person,44,0,0,0,0,3,2,45,0
+279539558,In-Person,19,0,0,0,5,2,0,68,0
+279755778,Field Shipment Shipment,37,1,0,0,3,2,0,101,1
+280077850,In-Person,19,0,0,0,1,2,0,54,0
+280196537,In-Person,32,0,0,1,5,1,0,59,0
+280225494,Field Shipment Shipment,50,1,0,1,4,2,5,112,1
+280580851,Field Shipment Shipment,36,0,1,1,1,1,3,92,1
+280852222,Field Shipment Shipment,33,0,0,1,5,1,0,66,0
+284274878,Field Shipment Shipment,23,0,0,1,2,3,0,68,0
+286011067,In-Person,32,0,0,1,2,1,0,51,0
+289178411,Field Shipment Shipment,27,0,0,0,1,0,0,53,0
+291004464,In-Person,22,0,0,0,4,1,0,61,0
+291289294,Field Shipment Shipment,35,0,0,0,2,2,3,112,1
+291624247,In-Person,38,1,0,1,0,3,1,45,0
+293080315,Field Shipment Shipment,42,1,1,0,2,0,2,102,1
+293995929,In-Person,20,0,0,0,0,0,0,64,0
+296406596,In-Person,44,0,0,0,1,1,2,45,0
+297459725,Field Shipment Shipment,29,0,0,0,1,2,0,58,0
+297808977,Field Shipment Shipment,34,0,0,0,4,1,0,69,0
+300457480,In-Person,33,0,1,0,0,0,3,100,1
+300657635,In-Person,28,0,0,0,2,3,0,64,0
+300922110,Field Shipment Shipment,21,0,0,0,1,2,0,59,0
+304310166,Field Shipment Shipment,27,0,0,0,0,0,0,61,0
+305568893,In-Person,26,0,0,0,0,0,0,59,0
+306067210,In-Person,34,1,1,0,1,3,3,110,1
+308726474,In-Person,49,1,0,0,3,3,2,45,0
+310026255,In-Person,37,0,0,0,2,0,0,58,0
+311123183,In-Person,45,1,1,0,3,0,0,97,1
+312233252,Field Shipment Shipment,50,0,0,0,1,0,4,92,1
+312489117,In-Person,19,0,0,0,0,0,0,64,0
+313156247,Field Shipment Shipment,24,0,0,0,4,0,0,65,0
+314706136,In-Person,20,0,0,0,1,2,0,63,0
+315583811,Field Shipment Shipment,35,0,0,0,1,0,0,66,0
+316606761,In-Person,33,0,0,0,2,1,0,55,0
+316769831,In-Person,28,0,0,0,4,2,0,67,0
+317404216,Field Shipment Shipment,46,0,1,0,1,2,1,109,1
+318248407,Field Shipment Shipment,20,0,0,0,1,2,0,53,0
+318459963,Field Shipment Shipment,33,0,0,0,2,0,0,73,0
+319047861,In-Person,38,0,0,0,2,3,4,109,1
+319889426,In-Person,37,0,0,0,1,2,0,75,0
+319909662,Field Shipment Shipment,27,0,0,1,3,4,0,67,0
+321700401,In-Person,31,0,0,0,0,0,0,65,0
+322759852,Field Shipment Shipment,32,0,0,0,0,1,0,74,0
+323518178,Field Shipment Shipment,43,0,0,1,4,2,3,45,0
+323598599,Field Shipment Shipment,40,1,0,0,1,0,4,109,1
+323772598,In-Person,36,0,0,1,2,1,0,60,0
+326979472,In-Person,43,0,1,0,0,3,4,96,1
+327053560,In-Person,39,1,0,0,2,2,1,102,1
+329286990,In-Person,28,0,0,0,0,2,0,58,0
+330933242,Field Shipment Shipment,27,0,0,0,1,0,0,57,0
+330958380,Field Shipment Shipment,24,0,0,0,2,2,0,57,0
+333424873,In-Person,27,0,0,0,2,0,0,66,0
+333437697,In-Person,50,1,1,0,3,1,3,95,1
+334250295,Field Shipment Shipment,28,0,0,0,2,0,0,56,0
+334532213,In-Person,22,0,0,0,4,2,0,63,0
+334892967,In-Person,35,0,0,1,0,4,0,65,0
+335741582,In-Person,23,0,0,0,2,0,0,61,0
+335957253,In-Person,34,1,1,0,3,3,2,99,1
+336109492,Field Shipment Shipment,37,0,0,0,2,2,0,51,0
+337660022,In-Person,29,0,0,0,2,0,0,74,0
+338041608,Field Shipment Shipment,36,0,0,0,1,1,0,62,0
+339434321,In-Person,37,0,1,0,3,0,0,110,1
+339563512,In-Person,22,0,0,1,4,2,0,63,0
+339754330,In-Person,43,1,0,0,2,3,1,107,1
+340365861,Field Shipment Shipment,25,0,0,0,2,1,0,54,0
+341737234,In-Person,45,1,1,0,4,1,3,104,1
+341902235,Field Shipment Shipment,35,0,0,0,3,3,0,53,0
+344548756,Field Shipment Shipment,28,0,0,0,0,1,0,62,0
+344556939,In-Person,36,0,0,0,0,0,0,59,0
+345230250,In-Person,32,0,0,0,1,1,0,47,0
+353085514,Field Shipment Shipment,31,0,0,0,5,1,0,70,0
+353208596,Field Shipment Shipment,20,0,0,1,3,2,0,68,0
+353573347,In-Person,27,0,0,0,0,1,0,73,0
+353682879,In-Person,44,1,1,0,3,1,2,88,1
+354065778,Field Shipment Shipment,23,0,0,0,0,4,0,65,0
+357513784,In-Person,30,0,0,0,1,1,0,61,0
+357517430,In-Person,27,0,0,0,1,1,0,69,0
+357570860,In-Person,28,0,0,0,0,0,0,62,0
+359161472,Field Shipment Shipment,27,0,0,1,1,3,0,72,0
+359351268,In-Person,33,0,0,0,2,3,0,59,0
+360333760,Field Shipment Shipment,36,0,1,0,0,0,3,105,1
+361354095,Field Shipment Shipment,20,0,0,0,3,0,0,64,0
+363145853,Field Shipment Shipment,24,0,0,0,4,0,0,64,0
+363915503,Field Shipment Shipment,39,1,0,0,3,3,2,96,1
+364592654,In-Person,41,1,1,0,3,1,2,98,1
+366238801,In-Person,30,0,0,0,1,0,0,66,0
+369698953,Field Shipment Shipment,49,0,0,0,2,1,4,45,0
+370629590,Field Shipment Shipment,32,0,0,1,1,0,0,53,0
+371182287,Field Shipment Shipment,41,0,0,0,3,0,3,103,1
+371391945,In-Person,27,0,0,0,0,0,0,67,0
+372203299,In-Person,35,0,0,0,4,1,4,106,1
+373063242,In-Person,46,0,1,0,2,0,5,95,1
+374352443,In-Person,19,0,0,0,2,0,0,64,0
+376252025,Field Shipment Shipment,39,0,0,0,4,0,2,45,0
+378883954,In-Person,24,0,0,0,3,1,0,76,0
+379178416,In-Person,36,0,0,1,0,1,0,61,0
+379813493,In-Person,30,0,0,0,5,1,0,64,0
+379900452,In-Person,45,1,1,0,2,1,3,113,1
+381546792,In-Person,19,0,0,0,1,1,0,66,0
+381844307,Field Shipment Shipment,31,0,0,0,0,0,2,109,1
+382574168,Field Shipment Shipment,25,0,0,0,0,1,0,66,0
+384262058,In-Person,23,0,0,0,3,0,0,68,0
+384337922,Field Shipment Shipment,39,0,1,0,1,3,0,101,1
+385001311,Field Shipment Shipment,31,0,0,1,2,1,0,69,0
+385147351,Field Shipment Shipment,36,0,0,0,3,2,0,71,0
+385252522,In-Person,19,0,0,0,3,2,0,74,0
+386964789,Field Shipment Shipment,38,0,0,0,1,4,2,100,1
+388698106,In-Person,24,0,0,0,1,0,0,63,0
+389432083,Field Shipment Shipment,50,1,1,0,4,1,2,105,1
+390093531,In-Person,38,1,1,0,5,2,2,108,1
+390804113,In-Person,31,0,0,0,0,0,0,54,0
+391299478,In-Person,27,0,0,0,5,1,0,66,0
+391796464,Field Shipment Shipment,29,0,0,0,0,1,0,54,0
+393072532,In-Person,32,0,0,0,3,2,0,72,0
+394395149,Field Shipment Shipment,39,1,0,0,3,3,2,98,1
+395059412,Field Shipment Shipment,31,1,0,0,2,1,0,45,0
+395940164,In-Person,24,0,0,0,1,1,0,63,0
+400962023,In-Person,27,0,0,0,1,1,0,57,0
+401552331,Field Shipment Shipment,35,0,0,0,5,3,0,62,0
+402131330,Field Shipment Shipment,19,0,0,0,2,1,0,67,0
+403950970,Field Shipment Shipment,42,0,0,0,2,0,3,109,1
+404508932,Field Shipment Shipment,33,1,1,0,2,0,1,106,1
+405854889,Field Shipment Shipment,25,0,0,1,1,2,0,49,0
+406180349,Field Shipment Shipment,22,0,0,0,3,2,0,65,0
+406224291,In-Person,48,0,0,1,3,2,1,45,0
+406446138,Field Shipment Shipment,32,0,0,0,2,1,0,59,0
+406899392,Field Shipment Shipment,29,0,0,0,0,0,0,70,0
+409426145,In-Person,31,0,0,0,1,1,4,108,1
+409466676,In-Person,36,0,0,1,1,0,0,64,0
+410005571,Field Shipment Shipment,39,0,1,0,4,0,3,112,1
+411707093,Field Shipment Shipment,38,0,1,0,3,1,2,106,1
+412644186,In-Person,31,0,0,0,2,3,0,53,0
+413549000,In-Person,26,0,0,0,1,1,0,67,0
+414926678,In-Person,25,0,0,0,2,2,0,52,0
+416820152,Field Shipment Shipment,30,0,0,0,2,2,0,60,0
+418422909,Field Shipment Shipment,32,0,1,0,2,3,1,90,1
+418475586,Field Shipment Shipment,23,0,0,0,3,0,0,51,0
+421281424,Field Shipment Shipment,31,1,0,1,1,1,3,45,0
+423160862,In-Person,48,1,0,0,1,1,3,91,1
+423200362,In-Person,37,0,0,0,2,2,0,56,0
+423282845,In-Person,30,0,0,0,1,3,0,57,0
+424440748,Field Shipment Shipment,26,0,0,0,2,0,0,58,0
+426469811,Field Shipment Shipment,36,0,1,1,3,3,4,103,1
+427856110,Field Shipment Shipment,42,1,0,0,1,1,0,45,0
+430145004,Field Shipment Shipment,35,0,0,1,3,0,0,71,0
+430229898,In-Person,36,0,1,1,2,1,1,100,1
+430493422,Field Shipment Shipment,31,0,0,0,1,0,4,101,1
+430695348,Field Shipment Shipment,30,0,0,0,1,1,0,56,0
+431540325,Field Shipment Shipment,43,1,1,0,4,3,4,94,1
+431596345,In-Person,30,0,0,0,3,0,0,59,0
+433855050,Field Shipment Shipment,36,0,0,0,1,2,0,69,0
+434793279,Field Shipment Shipment,28,0,0,0,0,1,0,73,0
+437563074,Field Shipment Shipment,27,0,0,0,0,1,0,55,0
+438037668,In-Person,30,0,0,0,1,2,0,77,0
+438473881,In-Person,43,1,1,0,4,1,2,100,1
+439528573,Field Shipment Shipment,24,0,0,0,2,1,0,56,0
+439791354,Field Shipment Shipment,48,0,1,0,4,0,3,86,1
+439814964,Field Shipment Shipment,46,1,0,0,2,2,0,45,0
+441162646,Field Shipment Shipment,41,0,0,0,2,1,2,45,0
+442149254,Field Shipment Shipment,32,0,0,0,1,2,4,113,1
+443665433,Field Shipment Shipment,49,1,0,0,1,0,4,45,0
+443768760,Field Shipment Shipment,39,1,0,0,3,1,5,45,0
+443803462,Field Shipment Shipment,36,0,0,0,0,0,0,64,0
+443824812,In-Person,20,0,0,0,5,4,0,54,0
+444354088,In-Person,36,0,0,0,1,2,1,45,0
+444421656,Field Shipment Shipment,37,0,0,0,3,3,4,109,1
+445219173,Field Shipment Shipment,33,1,0,0,2,2,4,45,0
+452511162,In-Person,34,0,0,0,4,1,0,67,0
+453837914,In-Person,43,1,0,0,0,2,5,111,1
+455505131,In-Person,38,0,1,0,2,3,3,116,1
+464038409,In-Person,34,0,0,0,3,1,0,55,0
+464236271,Field Shipment Shipment,35,0,0,1,2,1,0,59,0
+464426660,In-Person,43,0,0,0,2,2,1,109,1
+464848251,Field Shipment Shipment,33,0,0,0,1,1,0,56,0
+465924012,In-Person,26,0,0,0,1,1,0,69,0
+466733857,In-Person,31,0,1,1,1,1,2,96,1
+467362262,Field Shipment Shipment,23,0,0,0,0,1,0,65,0
+467512840,In-Person,33,0,0,0,0,0,0,112,1
+467513795,Field Shipment Shipment,38,0,1,0,0,1,4,103,1
+471268614,Field Shipment Shipment,33,0,0,0,0,0,0,67,0
+471793867,In-Person,37,0,0,0,2,2,0,61,0
+472303849,Field Shipment Shipment,29,0,0,0,0,0,0,57,0
+472375803,Field Shipment Shipment,23,0,0,0,0,0,0,66,0
+474365637,In-Person,45,1,0,0,0,2,1,45,0
+475099122,In-Person,32,0,0,0,0,4,0,57,0
+476143396,Field Shipment Shipment,32,0,0,0,3,0,0,71,0
+476630723,In-Person,43,0,1,0,2,0,3,105,1
+477024645,In-Person,19,0,0,0,0,0,0,60,0
+477763766,In-Person,37,1,0,0,0,0,3,103,1
+480569573,Field Shipment Shipment,34,0,0,0,1,0,0,61,0
+482641259,In-Person,46,1,0,0,2,2,2,101,1
+483247547,Field Shipment Shipment,33,0,0,0,2,2,0,55,0
+483553326,Field Shipment Shipment,37,0,0,0,1,2,0,64,0
+483797065,In-Person,29,0,0,0,2,2,0,71,0
+484458542,In-Person,42,0,0,0,3,3,4,93,1
+486015803,In-Person,29,0,0,0,2,2,0,49,0
+486039581,Field Shipment Shipment,37,0,0,0,2,4,0,55,0
+486319238,Field Shipment Shipment,45,1,1,1,0,1,4,112,1
+488874528,In-Person,48,0,0,0,2,0,1,94,1
+492343387,Field Shipment Shipment,41,1,0,0,2,1,1,45,0
+492678384,In-Person,20,0,0,0,0,0,0,55,0
+492739530,Field Shipment Shipment,30,0,0,1,1,2,0,50,0
+492752994,Field Shipment Shipment,32,0,1,1,1,1,5,104,1
+492950621,Field Shipment Shipment,36,0,0,0,2,0,0,58,0
+493720322,In-Person,41,0,0,0,1,1,1,45,0
+494596694,Field Shipment Shipment,22,0,0,0,1,2,0,65,0
+496611064,Field Shipment Shipment,31,0,0,0,3,0,0,67,0
+497287128,In-Person,41,0,1,1,3,1,3,107,1
+498094172,In-Person,36,0,0,0,0,0,5,108,1
+499744928,Field Shipment Shipment,43,1,0,0,3,1,2,113,1
+499746355,Field Shipment Shipment,39,1,1,0,3,1,3,97,1
+499954888,Field Shipment Shipment,43,1,0,0,1,0,2,105,1
+500397072,In-Person,20,0,0,0,2,0,0,58,0
+502768197,Field Shipment Shipment,36,0,0,0,1,1,0,65,0
+503270304,In-Person,23,0,0,0,4,0,0,73,0
+505338728,In-Person,19,0,0,1,0,1,0,64,0
+505700534,Field Shipment Shipment,38,0,0,0,2,3,0,56,0
+509719551,Field Shipment Shipment,33,0,1,1,1,1,1,100,1
+509993627,In-Person,23,0,0,0,3,3,0,62,0
+510883079,Field Shipment Shipment,33,0,0,0,0,0,0,65,0
+511977279,Field Shipment Shipment,44,0,1,1,2,3,2,113,1
+512036215,In-Person,47,0,0,0,1,0,0,102,1
+512697647,In-Person,22,0,0,0,2,0,0,61,0
+513389998,In-Person,44,0,0,0,3,0,5,92,1
+514040248,Field Shipment Shipment,33,0,0,0,0,3,0,63,0
+514784430,Field Shipment Shipment,39,1,0,0,2,2,4,112,1
+515558811,In-Person,32,0,0,0,0,0,0,69,0
+516412342,Field Shipment Shipment,36,0,0,0,2,0,0,59,0
+516580634,Field Shipment Shipment,40,0,0,0,1,1,4,96,1
+517239613,In-Person,37,0,0,0,3,1,0,45,0
+517803529,Field Shipment Shipment,31,0,0,0,2,0,0,69,0
+517924027,Field Shipment Shipment,35,0,0,0,2,1,0,64,0
+518012878,In-Person,39,0,0,1,0,1,0,105,1
+518377186,In-Person,28,0,0,0,2,3,0,55,0
+519374474,Field Shipment Shipment,34,0,0,0,4,0,0,67,0
+520920424,Field Shipment Shipment,20,0,0,0,3,1,0,60,0
+522065735,Field Shipment Shipment,26,0,0,0,0,0,0,51,0
+522817554,Field Shipment Shipment,46,0,0,0,1,2,5,102,1
+525544896,Field Shipment Shipment,37,0,0,0,2,1,0,77,0
+526964402,Field Shipment Shipment,23,0,0,1,0,2,0,57,0
+531679527,Field Shipment Shipment,29,0,0,0,2,0,0,70,0
+531763778,Field Shipment Shipment,37,1,0,0,3,0,3,107,1
+532830065,In-Person,35,0,1,0,0,1,3,105,1
+532979976,Field Shipment Shipment,23,0,0,0,0,2,0,62,0
+533587259,Field Shipment Shipment,20,0,0,0,1,2,0,55,0
+533622231,In-Person,33,0,0,0,0,0,0,68,0
+533936967,Field Shipment Shipment,25,0,0,0,1,0,0,58,0
+538445013,In-Person,43,1,1,0,0,1,1,109,1
+538452258,Field Shipment Shipment,21,0,0,0,0,1,0,51,0
+539292023,In-Person,26,0,0,0,2,0,0,49,0
+539459964,Field Shipment Shipment,21,0,0,0,0,1,0,60,0
+539910959,In-Person,19,0,0,0,1,1,0,74,0
+541922985,Field Shipment Shipment,27,0,0,0,4,3,0,52,0
+542786034,Field Shipment Shipment,31,0,0,0,1,1,4,106,1
+542964568,In-Person,47,1,0,1,0,0,0,100,1
+544874090,Field Shipment Shipment,36,0,0,0,3,2,0,58,0
+545460163,In-Person,35,0,0,1,2,2,0,58,0
+547040450,Field Shipment Shipment,34,0,0,0,2,3,0,69,0
+547840374,In-Person,35,0,0,0,0,0,4,99,1
+548557762,Field Shipment Shipment,36,1,0,0,2,2,4,94,1
+548705965,In-Person,40,0,1,0,1,3,1,113,1
+549562179,Field Shipment Shipment,27,0,0,0,2,0,0,52,0
+549935604,Field Shipment Shipment,29,0,0,0,2,1,0,73,0
+551251029,Field Shipment Shipment,29,0,0,0,4,0,0,59,0
+552722254,In-Person,31,0,0,0,3,0,0,49,0
+553597856,Field Shipment Shipment,33,0,0,0,1,0,0,51,0
+553739359,Field Shipment Shipment,44,1,0,0,2,3,1,106,1
+554049690,In-Person,23,0,0,1,0,0,0,57,0
+557671559,In-Person,24,0,0,0,2,1,0,53,0
+560148873,In-Person,30,0,0,1,2,0,0,57,0
+560743997,In-Person,34,0,0,1,1,0,0,70,0
+560745147,In-Person,48,1,1,0,4,2,3,109,1
+561039855,In-Person,43,1,1,0,2,1,2,105,1
+562075629,Field Shipment Shipment,19,0,0,0,2,0,0,72,0
+562199570,Field Shipment Shipment,34,0,0,0,1,4,0,55,0
+562210369,In-Person,30,0,0,0,2,2,0,108,1
+562811703,Field Shipment Shipment,35,0,0,0,2,1,5,45,0
+563619504,In-Person,33,0,0,0,2,0,0,64,0
+564553911,In-Person,31,0,0,0,3,1,1,45,0
+567565439,In-Person,24,0,0,1,0,0,0,52,0
+571897506,In-Person,19,0,0,0,2,1,0,64,0
+572782003,Field Shipment Shipment,31,0,0,0,2,3,0,63,0
+574088639,In-Person,19,0,0,0,0,4,0,66,0
+574305160,Field Shipment Shipment,37,0,0,0,3,0,0,54,0
+574596409,Field Shipment Shipment,34,0,1,1,1,1,2,97,1
+575223642,In-Person,37,0,0,0,2,1,0,58,0
+575990745,Field Shipment Shipment,36,0,0,0,0,3,3,45,0
+576278102,In-Person,29,0,0,1,2,2,0,64,0
+576719728,In-Person,20,0,0,0,3,2,0,61,0
+577734548,Field Shipment Shipment,27,0,0,0,5,2,0,68,0
+578086776,Field Shipment Shipment,41,1,0,0,0,1,3,45,0
+580729381,Field Shipment Shipment,48,0,1,1,1,1,1,116,1
+581231405,In-Person,35,0,0,0,1,2,0,61,0
+582215110,In-Person,36,0,0,1,2,2,5,106,1
+583788647,Field Shipment Shipment,21,0,0,0,0,3,0,59,0
+584775950,In-Person,34,1,1,1,1,0,3,107,1
+584899206,In-Person,43,0,0,0,0,0,3,107,1
+586546054,In-Person,35,0,0,0,0,0,0,54,0
+586718780,Field Shipment Shipment,33,0,0,1,3,1,0,53,0
+588978428,In-Person,29,0,0,0,3,1,0,75,0
+590271009,Field Shipment Shipment,23,0,0,0,5,1,0,57,0
+590697651,In-Person,36,1,0,0,0,0,4,94,1
+591630737,In-Person,35,0,0,0,4,1,0,61,0
+591948358,In-Person,26,0,0,1,1,1,0,68,0
+592332541,Field Shipment Shipment,33,0,0,0,0,1,0,66,0
+594141215,Field Shipment Shipment,34,1,1,0,2,1,2,78,1
+596239636,Field Shipment Shipment,33,0,0,0,0,3,0,64,0
+597409263,In-Person,25,0,0,0,2,0,0,56,0
+599474009,Field Shipment Shipment,35,0,0,0,0,0,0,68,0
+599832159,Field Shipment Shipment,41,0,1,0,1,0,3,91,1
+600646948,In-Person,40,0,0,0,1,1,4,88,1
+600810704,Field Shipment Shipment,33,0,1,1,1,0,4,83,1
+602230525,In-Person,37,0,0,0,3,3,0,62,0
+602701869,Field Shipment Shipment,46,1,0,0,0,0,0,45,0
+603341663,In-Person,50,0,0,0,2,2,5,45,0
+604393293,In-Person,33,0,0,0,2,2,0,65,0
+604905626,Field Shipment Shipment,45,1,0,1,0,0,2,78,1
+606966436,In-Person,43,1,0,0,2,2,0,84,1
+608103943,In-Person,32,0,0,0,1,1,0,62,0
+608576892,Field Shipment Shipment,33,0,0,0,3,1,0,86,1
+609649785,In-Person,34,0,0,0,1,3,0,45,0
+609997211,Field Shipment Shipment,31,0,0,0,2,2,0,57,0
+611324865,Field Shipment Shipment,22,0,0,1,0,1,0,69,0
+611647386,In-Person,29,0,0,0,4,1,0,56,0
+612630405,Field Shipment Shipment,34,0,0,0,0,1,0,71,0
+612804566,In-Person,26,0,0,0,0,1,0,74,0
+612968930,Field Shipment Shipment,42,0,0,0,0,0,1,75,1
+613904884,Field Shipment Shipment,28,0,0,0,1,2,0,53,0
+614331219,In-Person,45,1,1,1,0,2,2,92,1
+614463547,In-Person,19,0,0,0,0,1,0,59,0
+615159677,Field Shipment Shipment,47,0,1,0,2,3,0,81,1
+615363713,Field Shipment Shipment,40,0,0,0,0,0,4,84,1
+615934564,Field Shipment Shipment,48,0,1,0,3,0,2,76,1
+617198700,In-Person,41,1,0,0,0,1,3,88,1
+619250529,Field Shipment Shipment,35,0,1,0,2,1,1,68,1
+621004780,Field Shipment Shipment,24,0,0,0,0,3,0,70,0
+621255464,Field Shipment Shipment,23,0,0,0,0,0,0,53,0
+622333533,In-Person,26,0,0,1,3,0,0,74,0
+622335217,In-Person,38,0,0,1,0,3,0,59,0
+622460891,In-Person,27,0,0,0,2,3,0,62,0
+623319167,Field Shipment Shipment,30,0,0,0,3,0,0,55,0
+625136219,In-Person,34,0,0,1,0,3,0,67,0
+625350634,Field Shipment Shipment,32,0,0,0,0,1,4,83,1
+625966783,Field Shipment Shipment,29,0,0,0,3,0,0,58,0
+627352153,In-Person,36,0,0,1,3,2,0,54,0
+628244504,Field Shipment Shipment,36,0,0,0,4,2,0,70,0
+628783875,In-Person,22,0,0,0,0,0,0,60,0
+632807824,In-Person,29,0,0,0,2,3,0,70,0
+632936960,Field Shipment Shipment,45,1,1,0,1,0,3,84,1
+633012670,In-Person,36,1,0,0,0,0,3,81,1
+633082772,Field Shipment Shipment,49,1,1,0,4,0,3,80,1
+633295174,In-Person,39,1,0,0,2,1,4,92,1
+633890732,In-Person,21,0,0,0,0,3,0,66,0
+634852489,In-Person,29,0,0,1,2,0,0,68,0
+635743867,Field Shipment Shipment,19,0,0,0,0,0,0,50,0
+636521219,In-Person,31,0,0,0,0,0,0,52,0
+636848950,In-Person,28,0,0,0,1,0,0,54,0
+637556804,In-Person,33,1,1,0,0,0,2,70,1
+639181547,In-Person,45,1,1,0,1,0,1,85,1
+639236728,Field Shipment Shipment,34,0,0,1,0,0,0,58,0
+642087984,In-Person,20,0,0,0,3,1,0,60,0
+644157022,Field Shipment Shipment,35,0,0,0,3,2,4,45,0
+647573635,Field Shipment Shipment,30,0,0,0,2,0,0,55,0
+647684460,Field Shipment Shipment,46,1,0,1,3,1,0,91,1
+647917890,In-Person,35,0,0,0,2,1,0,74,0
+649366354,In-Person,37,0,0,1,1,1,0,57,0
+649538703,In-Person,20,0,0,0,1,0,0,61,0
+649630387,Field Shipment Shipment,36,0,0,1,1,1,0,72,0
+649739997,In-Person,33,0,0,0,3,0,0,65,0
+650212525,In-Person,45,0,1,0,2,1,4,87,1
+650424398,In-Person,27,0,0,1,2,1,0,55,0
+655050978,In-Person,46,0,0,0,3,2,3,93,1
+655722600,Field Shipment Shipment,28,0,0,1,0,0,0,56,0
+656938670,Field Shipment Shipment,46,1,1,0,0,1,0,89,1
+658125739,In-Person,46,0,1,0,1,0,4,76,1
+659065674,In-Person,26,0,0,0,2,0,0,73,0
+661251992,Field Shipment Shipment,23,0,0,0,1,0,0,67,0
+662946368,In-Person,45,0,1,0,4,0,2,80,1
+663882009,Field Shipment Shipment,36,0,0,0,5,2,0,68,0
+664655382,Field Shipment Shipment,21,0,0,0,0,2,0,70,0
+664672116,In-Person,19,0,0,0,1,0,0,67,0
+665236164,Field Shipment Shipment,26,0,0,0,2,0,0,51,0
+666380367,Field Shipment Shipment,23,0,0,0,4,3,0,63,0
+667205007,In-Person,49,1,0,0,0,2,2,74,1
+668423244,Field Shipment Shipment,44,1,0,0,3,1,2,74,1
+669644757,In-Person,20,0,0,0,0,0,0,55,0
+669843181,Field Shipment Shipment,26,0,0,0,3,2,0,73,0
+670477227,Field Shipment Shipment,49,0,0,0,0,2,3,83,1
+671677017,In-Person,43,0,0,0,4,1,2,77,1
+674580243,In-Person,46,0,0,0,1,0,3,80,1
+674611702,Field Shipment Shipment,42,0,0,0,2,1,0,45,0
+674983403,Field Shipment Shipment,34,0,0,1,2,1,0,45,0
+675967795,Field Shipment Shipment,20,0,0,1,1,0,0,62,0
+676658547,Field Shipment Shipment,50,0,1,0,5,2,0,75,1
+678005590,Field Shipment Shipment,34,1,0,0,1,2,3,45,0
+678657334,In-Person,32,1,0,0,0,0,5,93,1
+679263127,In-Person,48,1,0,0,1,1,0,91,1
+680145369,Field Shipment Shipment,35,0,0,0,0,0,0,53,0
+681126568,Field Shipment Shipment,32,0,0,0,2,0,0,71,0
+682499481,In-Person,22,0,0,0,1,0,0,64,0
+684298240,Field Shipment Shipment,34,0,0,1,1,1,0,66,0
+684934166,Field Shipment Shipment,38,1,0,0,0,1,2,45,0
+685676400,Field Shipment Shipment,40,0,0,0,1,0,2,81,1
+686055966,In-Person,24,0,0,0,1,0,0,71,0
+686626856,Field Shipment Shipment,38,0,0,0,3,1,2,84,1
+687882157,In-Person,33,0,0,1,2,2,0,55,0
+691149146,Field Shipment Shipment,31,0,1,0,2,2,3,87,1
+693706043,In-Person,20,0,0,0,2,1,0,60,0
+695720329,Field Shipment Shipment,31,1,1,1,3,2,4,72,1
+695931387,In-Person,26,0,0,0,1,3,0,66,0
+696050710,In-Person,48,0,1,0,2,1,1,79,1
+696965868,Field Shipment Shipment,34,0,0,0,1,1,0,63,0
+698355322,In-Person,36,0,0,1,0,0,0,65,0
+699212805,Field Shipment Shipment,32,0,0,0,4,0,0,54,0
+703334433,In-Person,31,0,0,0,1,2,0,71,0
+706921011,In-Person,31,0,0,1,1,2,0,70,0
+709802293,Field Shipment Shipment,30,0,0,1,0,1,0,73,0
+710815050,In-Person,43,0,0,0,0,0,1,97,1
+711606664,Field Shipment Shipment,27,0,0,0,0,1,0,70,0
+714492456,In-Person,31,1,1,0,1,0,1,71,1
+715663115,In-Person,28,0,0,0,2,1,0,65,0
+715979795,Field Shipment Shipment,47,1,0,0,2,2,4,77,1
+716148894,Field Shipment Shipment,24,0,0,0,1,1,0,67,0
+716176472,Field Shipment Shipment,29,0,0,0,1,1,0,54,0
+716492531,Field Shipment Shipment,50,1,1,0,1,1,4,86,1
+716813520,In-Person,29,0,0,0,0,1,0,59,0
+718037527,In-Person,46,1,1,0,2,1,0,84,1
+718893426,Field Shipment Shipment,31,0,0,0,1,3,0,56,0
+719281410,Field Shipment Shipment,32,1,1,0,2,3,1,83,1
+719608551,Field Shipment Shipment,30,0,1,0,1,0,2,76,1
+721103838,In-Person,25,0,0,1,4,1,0,58,0
+722207513,Field Shipment Shipment,40,1,0,0,1,0,4,91,1
+723463163,In-Person,20,0,0,0,2,1,0,61,0
+723753436,In-Person,28,0,0,0,1,1,0,59,0
+725409492,Field Shipment Shipment,46,0,1,0,4,0,1,79,1
+726469494,In-Person,47,0,0,0,2,3,4,86,1
+726495206,In-Person,48,1,0,0,0,1,4,81,1
+726808719,Field Shipment Shipment,22,0,0,0,0,0,0,67,0
+727879136,In-Person,35,1,0,0,3,0,1,88,1
+727892362,Field Shipment Shipment,21,0,0,0,1,1,0,60,0
+728773323,Field Shipment Shipment,39,0,0,1,0,2,0,45,0
+731029492,Field Shipment Shipment,28,0,0,0,1,2,0,63,0
+731120002,Field Shipment Shipment,23,0,0,1,0,0,0,74,0
+731405503,In-Person,45,1,1,0,1,1,0,87,1
+732504286,In-Person,19,0,0,1,2,2,0,63,0
+732529121,In-Person,45,1,0,1,2,1,3,85,1
+733968673,In-Person,21,0,0,0,0,0,0,58,0
+736705353,In-Person,41,0,1,1,0,0,5,91,1
+738583592,Field Shipment Shipment,42,1,0,0,0,3,1,84,1
+739300913,Field Shipment Shipment,37,0,0,0,0,1,1,83,1
+742029563,In-Person,23,0,0,0,1,0,0,62,0
+742075146,Field Shipment Shipment,34,0,0,0,0,2,0,65,0
+743134732,Field Shipment Shipment,33,0,0,1,0,1,0,60,0
+743325716,Field Shipment Shipment,26,0,0,0,2,1,0,62,0
+743328991,In-Person,32,0,0,1,0,0,0,55,0
+743759848,In-Person,19,0,0,0,0,0,0,76,0
+744255799,Field Shipment Shipment,28,0,0,1,1,0,0,72,0
+744829132,In-Person,34,0,0,0,1,1,0,52,0
+745035176,Field Shipment Shipment,19,0,0,0,0,0,0,68,0
+745122471,Field Shipment Shipment,19,0,0,1,1,0,0,53,0
+745554175,Field Shipment Shipment,21,0,0,0,0,0,0,67,0
+747462990,Field Shipment Shipment,25,0,0,1,1,1,0,47,0
+750371673,Field Shipment Shipment,34,0,0,0,3,1,0,82,1
+751877638,In-Person,24,0,0,0,3,0,0,55,0
+752106547,Field Shipment Shipment,35,0,0,0,2,1,0,63,0
+752836485,In-Person,42,0,1,0,0,0,3,86,1
+753620116,In-Person,47,1,0,0,3,2,2,95,1
+753675054,In-Person,27,0,0,1,0,1,0,54,0
+755251251,Field Shipment Shipment,33,1,0,0,0,2,1,45,0
+755313622,In-Person,24,0,0,0,1,2,0,61,0
+756800213,Field Shipment Shipment,41,1,0,0,0,0,3,92,1
+757698496,Field Shipment Shipment,33,1,0,0,1,2,0,71,1
+757761971,In-Person,43,0,0,0,5,3,5,45,0
+759003202,Field Shipment Shipment,38,0,0,1,0,1,0,59,0
+760506027,Field Shipment Shipment,35,0,0,1,0,1,0,70,0
+761456669,Field Shipment Shipment,21,0,0,0,0,2,0,68,0
+762615620,Field Shipment Shipment,24,0,0,0,0,2,0,60,0
+763976983,Field Shipment Shipment,26,0,0,0,3,3,0,54,0
+764842709,Field Shipment Shipment,20,0,0,0,5,2,0,60,0
+766249710,In-Person,41,1,1,0,2,1,0,87,1
+766974771,Field Shipment Shipment,18,0,0,1,0,0,0,56,0
+767961027,Field Shipment Shipment,20,0,0,0,1,0,0,64,0
+770069430,Field Shipment Shipment,31,0,0,0,0,2,4,82,1
+770789975,Field Shipment Shipment,26,0,0,0,0,0,0,54,0
+772479984,In-Person,27,0,0,0,3,1,0,61,0
+773554765,Field Shipment Shipment,24,0,0,0,5,4,0,53,0
+773916512,In-Person,33,1,1,0,3,3,0,73,1
+774811551,In-Person,34,0,0,0,1,2,0,69,0
+775073795,In-Person,31,0,0,0,2,0,4,45,0
+777902892,In-Person,29,0,0,0,0,1,0,54,0
+779152074,In-Person,41,0,1,0,3,0,4,82,1
+780374006,In-Person,37,0,0,0,3,0,0,51,0
+781486789,In-Person,26,0,0,0,1,1,0,60,0
+781753822,In-Person,34,0,0,0,1,1,4,85,1
+782360677,Field Shipment Shipment,27,0,0,1,0,0,0,56,0
+783720299,In-Person,24,0,0,1,1,2,0,72,0
+783879493,In-Person,34,0,0,0,0,0,0,62,0
+784852330,In-Person,50,0,1,1,1,1,1,89,1
+785388227,Field Shipment Shipment,32,0,0,1,0,2,0,66,0
+786749139,Field Shipment Shipment,21,0,0,0,2,1,0,65,0
+787008741,Field Shipment Shipment,23,0,0,0,2,1,0,62,0
+787205253,In-Person,20,0,0,0,0,0,0,62,0
+788474282,In-Person,31,0,0,0,0,3,1,45,0
+789337409,Field Shipment Shipment,22,0,0,1,2,2,0,60,0
+790044377,Field Shipment Shipment,41,0,0,1,0,0,5,85,1
+790682601,Field Shipment Shipment,43,1,0,1,0,1,4,80,1
+791656962,In-Person,31,1,0,1,3,1,4,87,1
+792106835,Field Shipment Shipment,22,0,0,1,3,2,0,54,0
+793339015,Field Shipment Shipment,33,0,0,0,2,0,0,62,0
+794118965,In-Person,31,1,0,0,4,3,2,79,1
+794637185,In-Person,19,0,0,0,2,3,0,69,0
+796275642,In-Person,33,0,0,0,1,2,0,52,0
+797207693,Field Shipment Shipment,31,0,0,0,0,0,0,70,0
+798059063,Field Shipment Shipment,34,0,0,0,3,1,0,63,0
+799530973,In-Person,22,0,0,0,1,0,0,71,0
+800788497,Field Shipment Shipment,35,0,0,0,2,1,0,56,0
+806474399,In-Person,31,0,1,0,4,4,3,94,1
+807240600,Field Shipment Shipment,28,0,0,1,1,1,0,68,0
+807254837,In-Person,32,0,0,0,2,0,0,68,0
+807891842,In-Person,42,0,0,0,2,0,1,86,1
+808615717,In-Person,47,1,0,0,5,1,1,45,0
+810008304,Field Shipment Shipment,48,0,0,0,1,0,5,83,1
+815202177,Field Shipment Shipment,30,0,0,0,2,1,0,60,0
+815285727,Field Shipment Shipment,33,1,1,0,3,2,5,79,1
+815450534,In-Person,38,0,0,1,2,2,0,68,0
+816687121,In-Person,42,0,0,0,0,0,3,79,1
+817270102,In-Person,34,0,0,0,5,3,0,56,0
+817489050,In-Person,37,0,0,0,1,1,3,45,0
+818874765,Field Shipment Shipment,31,0,0,0,0,2,0,62,0
+819798177,Field Shipment Shipment,30,0,0,0,0,0,5,82,1
+821873925,In-Person,34,0,0,0,5,2,0,54,0
+823660664,In-Person,24,0,0,0,2,0,0,57,0
+825026576,Field Shipment Shipment,38,0,0,0,2,3,0,68,0
+825054294,Field Shipment Shipment,31,0,0,0,0,0,0,61,0
+825404296,In-Person,35,0,0,1,1,2,0,58,0
+826284791,Field Shipment Shipment,24,0,0,0,2,3,0,54,0
+828589667,Field Shipment Shipment,39,0,1,1,1,1,1,79,1
+831238216,In-Person,35,0,0,0,1,2,0,72,0
+831920443,In-Person,32,1,1,0,5,3,5,85,1
+831960566,In-Person,47,0,1,0,2,1,4,75,1
+832009689,In-Person,35,0,0,0,1,2,0,57,0
+832726746,Field Shipment Shipment,38,1,1,0,4,0,5,74,1
+835517258,Field Shipment Shipment,47,1,0,0,0,0,5,84,1
+836100032,In-Person,20,0,0,0,3,2,0,51,0
+836127136,In-Person,30,0,0,0,0,1,0,45,0
+836833145,In-Person,31,0,0,0,2,2,0,53,0
+837201689,In-Person,34,0,0,0,0,1,0,69,0
+837881646,In-Person,48,1,0,0,1,1,1,84,1
+838122502,Field Shipment Shipment,50,1,0,1,2,3,2,84,1
+838143146,In-Person,48,1,0,0,1,1,4,83,1
+839656352,In-Person,34,0,0,0,3,3,0,65,0
+842832592,In-Person,29,0,0,0,3,0,0,56,0
+844762480,In-Person,43,0,1,0,0,2,4,81,1
+845644678,In-Person,30,0,0,0,2,0,0,68,0
+846303618,In-Person,34,0,0,0,1,2,0,68,0
+846748422,In-Person,32,0,0,0,0,0,0,66,0
+847808415,Field Shipment Shipment,24,0,0,0,5,0,0,53,0
+848089632,In-Person,29,0,0,0,0,2,0,75,0
+848258251,In-Person,30,0,0,0,0,0,0,67,0
+848375893,In-Person,22,0,0,1,0,0,0,63,0
+850145316,In-Person,47,1,0,0,3,0,4,89,1
+852048081,Field Shipment Shipment,20,0,0,1,0,0,0,65,0
+855637307,In-Person,37,0,0,0,3,0,0,63,0
+856504624,Field Shipment Shipment,35,0,0,0,4,1,0,72,0
+856545809,In-Person,25,0,0,0,2,3,0,57,0
+856983090,Field Shipment Shipment,50,0,1,0,2,1,0,72,1
+858238304,Field Shipment Shipment,46,1,0,0,2,0,3,88,1
+858872100,In-Person,36,0,0,0,1,1,0,61,0
+859356239,Field Shipment Shipment,33,0,0,1,2,1,0,60,0
+860579533,Field Shipment Shipment,38,0,0,0,1,0,0,69,0
+860719929,In-Person,47,1,0,0,3,2,2,74,1
+861603854,Field Shipment Shipment,30,0,0,1,0,0,0,64,0
+861642037,Field Shipment Shipment,37,1,1,0,1,1,4,78,1
+864072113,Field Shipment Shipment,22,0,0,0,1,2,0,65,0
+864984789,Field Shipment Shipment,33,0,0,0,2,3,2,86,1
+865829237,In-Person,43,1,1,0,0,2,4,70,1
+866257052,Field Shipment Shipment,38,0,0,1,0,0,0,65,0
+866278004,In-Person,24,0,0,0,2,1,0,68,0
+871284845,In-Person,37,0,0,0,0,4,0,63,0
+872369665,In-Person,29,0,0,0,2,0,0,68,0
+872891306,Field Shipment Shipment,41,0,1,1,2,1,4,94,1
+873462369,In-Person,36,1,1,0,1,2,5,72,1
+875597281,Field Shipment Shipment,49,0,1,0,0,0,5,81,1
+876149556,Field Shipment Shipment,48,1,1,0,4,1,2,79,1
+877082418,In-Person,35,0,0,0,3,0,0,69,0
+878490189,Field Shipment Shipment,44,0,1,0,3,2,3,84,1
+879966285,Field Shipment Shipment,27,0,0,0,1,2,0,53,0
+880757796,In-Person,37,0,1,1,2,1,1,78,1
+880947621,Field Shipment Shipment,22,0,0,0,1,0,0,69,0
+883371202,Field Shipment Shipment,38,0,0,1,3,1,0,57,0
+884643146,Field Shipment Shipment,22,0,0,0,1,1,0,61,0
+885460915,In-Person,46,0,1,0,0,1,1,87,1
+887388928,Field Shipment Shipment,37,0,1,0,1,1,2,71,1
+889401447,In-Person,25,0,0,0,2,0,0,55,0
+890756823,In-Person,37,1,0,0,5,2,3,96,1
+892190371,Field Shipment Shipment,35,0,0,0,1,0,0,50,0
+892462906,Field Shipment Shipment,49,1,1,0,2,2,4,88,1
+893280782,In-Person,19,0,0,0,0,1,0,68,0
+895988842,Field Shipment Shipment,34,0,0,0,4,0,5,77,1
+896094197,Field Shipment Shipment,42,1,1,0,0,0,2,78,1
+897085393,Field Shipment Shipment,29,0,0,0,0,1,0,66,0
+898088025,In-Person,19,0,0,0,0,0,0,58,0
+900645732,In-Person,41,0,0,0,2,1,5,90,1
+900834240,Field Shipment Shipment,31,0,0,0,1,3,0,62,0
+901019670,Field Shipment Shipment,39,1,1,0,3,1,3,91,1
+903016825,In-Person,22,0,0,0,3,0,0,73,0
+903278620,In-Person,36,0,0,0,1,2,0,64,0
+904235345,In-Person,21,0,0,0,3,1,0,69,0
+904695368,Field Shipment Shipment,40,0,1,0,2,0,3,94,1
+905197126,In-Person,25,0,0,0,1,0,0,67,0
+906588584,In-Person,26,0,0,1,1,1,0,60,0
+907150958,Field Shipment Shipment,30,0,0,0,1,1,0,63,0
+907701122,Field Shipment Shipment,33,0,0,0,0,2,0,62,0
+909723286,In-Person,36,0,0,0,2,0,0,63,0
+912266976,In-Person,21,0,0,0,2,1,0,62,0
+912363739,In-Person,48,0,1,0,1,0,3,81,1
+913333485,Field Shipment Shipment,21,0,0,0,0,2,0,71,0
+913619415,In-Person,26,0,0,0,0,2,0,66,0
+913621982,Field Shipment Shipment,25,0,0,0,2,1,0,58,0
+915262046,In-Person,43,0,0,0,2,2,4,89,1
+916642417,Field Shipment Shipment,42,1,0,0,1,2,4,90,1
+917330885,In-Person,31,0,0,1,1,0,0,69,0
+918642969,Field Shipment Shipment,26,0,0,0,2,1,0,65,0
+919186480,In-Person,26,0,0,0,2,1,0,65,0
+919674798,Field Shipment Shipment,30,0,0,1,3,0,0,68,0
+919702438,Field Shipment Shipment,37,0,0,0,0,0,0,62,0
+920122718,Field Shipment Shipment,26,0,0,1,1,0,0,56,0
+920609094,Field Shipment Shipment,36,0,0,0,0,2,0,54,0
+922845724,Field Shipment Shipment,23,0,0,0,4,0,0,56,0
+922969598,In-Person,32,0,0,0,0,1,5,30,0
+924085166,Field Shipment Shipment,36,0,0,0,0,1,0,59,0
+924971448,Field Shipment Shipment,27,0,0,0,5,0,0,68,0
+925705248,Field Shipment Shipment,48,1,0,0,2,2,3,85,1
+926245951,Field Shipment Shipment,29,0,0,0,2,1,0,59,0
+927120922,Field Shipment Shipment,33,0,0,0,1,1,0,69,0
+928037824,Field Shipment Shipment,37,0,0,0,0,1,0,65,0
+929017264,Field Shipment Shipment,24,0,0,0,4,0,0,65,0
+931544555,In-Person,31,0,0,0,2,0,0,67,0
+932298827,Field Shipment Shipment,45,0,0,1,1,2,3,86,1
+932439786,Field Shipment Shipment,30,0,0,0,0,0,0,52,0
+933064580,In-Person,28,0,0,0,0,0,0,65,0
+933906891,In-Person,20,0,0,0,3,0,0,52,0
+934572447,In-Person,38,0,0,0,3,1,0,66,0
+935609085,In-Person,26,0,0,0,3,0,0,52,0
+937025003,Field Shipment Shipment,46,1,0,0,1,1,0,45,0
+937314051,Field Shipment Shipment,20,0,0,0,1,2,0,57,0
+938988145,In-Person,21,0,0,0,0,1,0,64,0
+939543014,In-Person,46,0,1,0,0,3,2,75,1
+939608066,In-Person,49,0,1,0,0,0,5,92,1
+941012850,In-Person,32,0,1,1,5,0,4,89,1
+941753145,In-Person,29,0,0,0,0,1,0,63,0
+941934235,In-Person,27,0,0,0,2,1,0,58,0
+942956477,In-Person,34,1,1,0,2,1,2,73,1
+945306687,Field Shipment Shipment,43,0,1,0,2,1,5,75,1
+945536665,In-Person,36,0,0,0,1,1,4,81,1
+945656457,Field Shipment Shipment,20,0,0,0,0,3,0,57,0
+947036468,Field Shipment Shipment,45,1,0,0,1,0,2,93,1
+950232483,In-Person,22,0,0,1,0,0,0,30,0
+950391140,Field Shipment Shipment,21,0,0,0,0,0,0,70,0
+952026398,In-Person,40,0,1,0,2,1,4,77,1
+952488809,Field Shipment Shipment,32,0,0,0,0,0,0,69,0
+952989948,In-Person,37,0,0,0,2,1,0,57,0
+953535759,Field Shipment Shipment,25,0,0,0,0,0,0,62,0
+953936349,In-Person,36,0,0,1,1,0,0,76,0
+954270737,Field Shipment Shipment,33,0,1,0,0,1,2,90,1
+954813031,Field Shipment Shipment,35,0,0,0,2,0,0,61,0
+955072219,In-Person,29,0,0,0,0,0,0,68,0
+955835600,Field Shipment Shipment,21,0,0,0,1,1,0,71,0
+957780996,In-Person,24,0,0,0,4,2,0,72,0
+958426958,In-Person,23,0,0,1,2,3,0,76,0
+958897175,In-Person,42,1,1,0,2,2,0,97,1
+960960945,In-Person,32,0,0,1,0,1,0,67,0
+961269569,In-Person,37,0,0,0,1,1,0,59,0
+961393729,In-Person,41,0,1,0,3,0,2,80,1
+964164870,Field Shipment Shipment,20,0,0,0,2,1,0,63,0
+965288165,Field Shipment Shipment,37,0,0,0,2,3,0,69,0
+966101980,In-Person,41,1,0,0,1,1,3,92,1
+966377848,Field Shipment Shipment,38,0,0,0,2,1,0,59,0
+967670971,In-Person,33,0,0,0,2,1,0,67,0
+968380129,Field Shipment Shipment,31,0,0,0,2,2,4,85,1
+968863837,Field Shipment Shipment,36,1,0,0,2,0,4,71,1
+969267876,Field Shipment Shipment,36,0,1,1,0,2,0,76,1
+972402226,In-Person,32,0,0,0,1,3,3,94,1
+973878302,Field Shipment Shipment,26,0,0,0,0,1,0,60,0
+973892449,In-Person,19,0,0,1,1,0,0,30,0
+974666267,In-Person,24,0,0,0,2,0,0,56,0
+975252843,In-Person,34,0,0,0,2,2,0,54,0
+977510938,Field Shipment Shipment,37,0,0,0,1,2,1,78,1
+977718170,Field Shipment Shipment,31,1,0,0,2,0,2,91,1
+977895581,Field Shipment Shipment,36,0,0,1,2,0,0,53,0
+980832709,Field Shipment Shipment,43,0,0,0,0,1,1,88,1
+980890316,Field Shipment Shipment,39,0,0,0,0,0,2,78,1
+981030259,Field Shipment Shipment,49,1,1,0,5,2,1,88,1
+981640961,Field Shipment Shipment,30,0,0,0,1,2,0,70,0
+986051590,Field Shipment Shipment,29,0,0,1,0,0,0,63,0
+986523528,Field Shipment Shipment,28,0,0,0,2,2,0,73,0
+986565655,Field Shipment Shipment,34,0,0,1,0,2,0,64,0
+988020716,Field Shipment Shipment,32,0,0,0,3,3,0,62,0
+988165482,Field Shipment Shipment,45,0,0,0,0,1,5,79,1
+988189778,Field Shipment Shipment,30,0,0,1,1,1,0,63,0
+989097419,Field Shipment Shipment,33,1,1,0,1,1,0,89,1
+989775430,In-Person,46,1,1,0,2,2,3,71,1
+990295890,In-Person,24,0,0,1,2,2,0,69,0
+990698395,In-Person,31,0,0,0,2,1,0,59,0
+993595891,Field Shipment Shipment,44,0,1,0,0,1,4,76,1
+996100083,Field Shipment Shipment,32,0,0,0,1,2,0,62,0
