@@ -1,0 +1,134 @@
+---
+title: "Playoff Teams - Classification Estimation"
+author: "Connor Gooding"
+date: "8/22/2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(dplyr)
+library(httr)
+library(XML)
+    
+```
+
+## Synopsis
+
+This analysis compares every single-season team performance in MLB history since 1903, the year of the inaugural World Series, identifies different tiers of postseason success, and explores the characteristics of these playoff success clusters.
+
+## History of MLB Postseason
+
+Baseball is America's oldest major sport, and the format of competition has changed considerably since it was invented. In 1903, the National League, a professional baseball league that been around since 1876, partnered with the American League to form what is now Major League Baseball and attempted the first World Series. This best-of-eleven contest between the NL champion Pittsburg Pirates and the AL champion Boston Americans would be the first postseason series in Major Leauge history. After a hiatus in 1904, the leagues resumed their annual World Series, but as a best-of-seven contest.
+
+For a while, the World Series was the only postseason series of the year, pitting the teams with the best records in the National and American leagues against each other. However, by 1969 both leagues had expanded to twelve teams, and consistent yearly competition amongst all 12 NL teams and 12 AL teams was difficult to coordinate. Thus, both leagues split into two six-team divisions and instituted a best-of-seven Championship Series within each league between the division champions. This created a second round of posteason play.
+
+By 1994, the league had expanded to 28 teams with six divisions, and another round of postseason play was necessary to pit the division champions against each other. However, a fourth team was needed in the postseason for each league to make this possible, and so a wild card team was included. This wild card spot was awarded to the best team in each league that did not win its respective division title. The new round of postseason play, a best-of-five-contest, was dubbed the Division Series.
+
+The most recent adjustment to the MLB postseason came in 2012, when a second wild-card team was added to postseason contention. This second wild-card team has been pitted against the first wild-card team in a one-game playoff, known as the Wild Card game since then. 
+
+These changes to the postseason format make it more difficult to relate a team's regular season performance directly to a postseason result.
+
+## Data Acquisition
+
+All data for single-season team performances in this report come from the FanGraphs [batting](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=8&season=2017&month=0&season1=1871&ind=1&team=0,ts&rost=0&age=0&filter=&players=0) and [pitching](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2017&month=0&season1=1871&ind=1&team=0,ts&rost=0&age=0&filter=&players=0) leaderboards. The raw .csv files are hidden behind Javascript functions, and so direct links could not be used to donwload the files directly into RStudio. 
+
+It is also important to note that the 'Export Data' function of these leaderboards names all of the exported .csv files the same name (FanGraphs Leaderboard.csv). To better identify the different tables being pulled into this report, some considerable renaming was done to the downloaded .csv files. 
+
+The data that will be acquired for this analysis comes in two parts:
+
+1. The tier lists for each stage in the postseason
+2. The standard batting and pitching tables for each single-season team since 1903.
+
+### Playoff Team Lists
+
+The first dataset to scrape is the list of World Series winners and losers from
+[this Wikipedia article](https://en.wikipedia.org/wiki/List_of_World_Series_champions#Winners). This will give us two lists, one for champions and one for teams who just missed
+winning the World Series.
+
+```{r get_ws_teams}
+source('getPlayoffTeams.R', local = T)
+
+url <- "https://en.wikipedia.org/wiki/List_of_World_Series_champions#Winners"
+    
+r <- GET(url)
+    
+wiki <- readHTMLTable(doc=content(r, "text"))[[2]]
+ws_winners <- wiki[,1:2]
+ws_losers <- wiki[,c(1, 5)]
+    
+ws_winners <- getPlayoffTeams(ws_winners)
+ws_losers <- getPlayoffTeams(ws_losers)
+```
+
+Next, the list of teams that made it to the Championship Series but lost:
+
+```{r get_cs_losers}
+source('getCSLosers.R', local = T)
+nlcs_url <- "https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners"
+nlcs_losers <- getCSLosers(nlcs_url)
+
+alcs_url <- "https://en.wikipedia.org/wiki/List_of_American_League_pennant_winners"
+alcs_losers <- getCSLosers(alcs_url)
+
+cs_losers <- rbind(nlcs_losers, alcs_losers)
+```
+
+Third, the list of teams that made it to the Division Series but lost:
+
+```{r get_ds_losers}
+source('getDSLosers.R', local = T)
+nlds_url <- "https://en.wikipedia.org/wiki/National_League_Division_Series"
+nlds_losers <- getDSLosers(nlds_url)
+
+alds_url <- "https://en.wikipedia.org/wiki/American_League_Division_Series"
+alds_losers <- getDSLosers(alds_url)
+
+ds_losers <- rbind(nlds_losers, alds_losers)
+```
+
+And finally, the list of teams that lost the Wild Card game (not that many, since
+it is September 2017).
+
+```{r get_wc_losers}
+wc_losers <- data.frame(Season = rep(2012:2016, each = 2),
+                   Team = c('Rangers', 'Braves', 'Indians', 'Reds', 'Athletics',
+                            'Pirates', 'Yankees', 'Pirates', 'Orioles', 'Mets'))
+wc_losers$SeasonTeam <- paste(wc_losers$Season, wc_losers$Team)
+```
+
+
+
+```{r look_at_raw_bats}
+str(batting_teams_dash)
+```
+
+```{r look_at_raw_arms}
+str(pitching_teams_dash)
+```
+
+```{r team_season}
+batting_teams_dash <- batting_teams_dash %>% filter(Season >= 1903)
+pitching_teams_dash <- pitching_teams_dash %>% filter(Season >= 1903)
+
+batting_teams_dash$SeasonTeam <- with(batting_teams_dash, paste(Season, Team))
+pitching_teams_dash$SeasonTeam <- with(pitching_teams_dash, paste(Season, Team))
+```
+
+```{r misc}
+playoff_results <- batting_teams_dash %>% arrange(Season, Team) %>% select(SeasonTeam)
+playoff_results$WonWS <- rep(0, length(playoff_results$SeasonTeam))
+playoff_results[playoff_results$SeasonTeam %in% ws_winners$SeasonTeam, 2] <- 1 
+
+batting_teams_dash$WonWS <- batting_teams_dash$SeasonTeam %in% ws_winners$SeasonTeam
+pitching_teams_dash$WonWS <- pitching_teams_dash$SeasonTeam %in% ws_winners$SeasonTeam
+
+batting_teams_dash$LostWS <- batting_teams_dash$SeasonTeam %in% ws_losers$SeasonTeam
+pitching_teams_dash$LostWS <- pitching_teams_dash$SeasonTeam %in% ws_losers$SeasonTeam
+
+
+batting_teams_dash <- batting_teams_dash %>% select(1:2, SeasonTeam, WonWS, LostWS, G:WAR)
+pitching_teams_dash <- pitching_teams_dash %>% select(1:2, SeasonTeam, WonWS, LostWS, W:WAR)
+```
+
